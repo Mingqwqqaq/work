@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "db9f0974a309050e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2efeee05e2773a55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09293a7320a96166",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95b320dad68ca865",
+    "type": "split",
+    "children": [
+      {
+        "id": "dae06619eabde736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae6859c0d1011d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "50caeeaa6d11277c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5fb5b341dcfa65b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30b0a06277aaa70a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4df0b474df119d0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5799c97aec5c7fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "deep-research-report.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "deep-research-report 的反向链接列表"
+            }
+          },
+          {
+            "id": "67ad3048ef1e15e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "deep-research-report.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "deep-research-report 的出链列表"
+            }
+          },
+          {
+            "id": "09c39cd5168e387d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1d51ed3c0a7e8d94",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "47edfc378a133db4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "deep-research-report.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "deep-research-report 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "09293a7320a96166",
+  "lastOpenFiles": [
+    "deep-research-report (3).md",
+    "deep-research-report (1).md",
+    "deep-research-report (2).md",
+    "LAVIS/lavis/processors/__init__.py",
+    "LAVIS/lavis/processors/ulip_processors.py",
+    "LAVIS/lavis/processors/transforms_video.py",
+    "LAVIS/lavis/processors/randaugment.py",
+    "LAVIS/lavis/processors/instruction_text_processors.py",
+    "LAVIS/lavis/processors/gpt_processors.py",
+    "LAVIS/lavis/processors/functional_video.py",
+    "LAVIS/lavis/processors/clip_processors.py",
+    "LAVIS/lavis/processors/blip_processors.py",
+    "LAVIS/lavis/processors/blip_diffusion_processors.py",
+    "LAVIS/projects/blip-diffusion/images/dreambooth/dog8/04.jpg",
+    "LAVIS/projects/blip-diffusion/images/dreambooth/dog8/03.jpg",
+    "LAVIS/projects/blip-diffusion/images/dreambooth/dog8/02.jpg",
+    "LAVIS/projects/blip-diffusion/images/dreambooth/dog8/01.jpg",
+    "LAVIS/projects/blip-diffusion/images/dreambooth/dog8/00.jpg",
+    "LAVIS/projects/blip-diffusion/images/dreambooth/dog/04.jpg",
+    "LAVIS/projects/blip-diffusion/images/dreambooth/dog/03.jpg",
+    "LAVIS/projects/blip-diffusion/images/dreambooth/dog/02.jpg",
+    "LAVIS/projects/blip-diffusion/images/dreambooth/dog/01.jpg",
+    "LAVIS/projects/blip-diffusion/images/dreambooth/dog/00.jpg",
+    "LAVIS/projects/xinstructblip/README.md",
+    "LAVIS/projects/pnp-vqa/README.md",
+    "LAVIS/projects/img2llm-vqa/README.md",
+    "LAVIS/projects/img2prompt-vqa/README.md",
+    "LAVIS/projects/instructblip/README.md",
+    "LAVIS/projects/blip2/README.md",
+    "LAVIS/projects/blip-diffusion/README.md",
+    "LAVIS/lavis/models/beats/README.md",
+    "LAVIS/lavis/datasets/download_scripts/DownloadConceptualCaptions/README.md",
+    "LAVIS/dataset_card/vqav2.md",
+    "LAVIS/dataset_card/snli_visual_entailment.md",
+    "LAVIS/dataset_card/nocaps.md",
+    "LAVIS/dataset_card/sbu_caption.md",
+    "LAVIS/dataset_card/nlvr2.md",
+    "LAVIS/dataset_card/msvd_qa.md",
+    "LAVIS/dataset_card/msrvtt_retrieval.md",
+    "LAVIS/dataset_card/gqa.md",
+    "LAVIS/dataset_card/msrvtt_qa.md",
+    "LAVIS/dataset_card/flickr_retrieval.md",
+    "LAVIS/dataset_card/didemo_retrieval.md",
+    "LAVIS/dataset_card/conceptual_captions.md",
+    "LAVIS/dataset_card/coco_retrieval.md",
+    "LAVIS/dataset_card/coco_caption.md"
+  ]
+}
