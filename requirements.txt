@@ -1,0 +1,13 @@
+accelerate
+datasets
+huggingface_hub
+numpy
+opencv-python-headless
+pandas
+pillow
+pyyaml
+qwen-vl-utils[decord]
+requests
+safetensors
+tqdm
+transformers

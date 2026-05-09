@@ -1,0 +1,27 @@
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local experiment artifacts. Keep directory placeholders tracked.
+data/*
+models/*
+runs/*
+logs/*
+!data/.gitkeep
+!models/.gitkeep
+!runs/.gitkeep
+!logs/.gitkeep
+
+# Model/checkpoint artifacts.
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+
+# OS/editor noise.
+.DS_Store
+Thumbs.db

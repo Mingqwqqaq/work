@@ -1,0 +1,7 @@
+model: Qwen/Qwen2.5-VL-7B-Instruct
+variant: direct_answer_smoke
+output_path: runs/debug/direct_answer_smoke.jsonl
+max_new_tokens: 256
+do_sample: false
+torch_dtype: bfloat16
+device_map: auto
