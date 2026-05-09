@@ -38,7 +38,7 @@ Run a single-image smoke test:
 
 ```bash
 python scripts/smoke_qwen25vl.py \
-  --image data/debug/test.jpg \
+  --image data/debug/test.png \
   --question "What is in this image?"
 ```
 

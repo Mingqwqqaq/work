@@ -11,6 +11,8 @@ models/*
 runs/*
 logs/*
 !data/.gitkeep
+!data/debug/
+!data/debug/test.png
 !models/.gitkeep
 !runs/.gitkeep
 !logs/.gitkeep
