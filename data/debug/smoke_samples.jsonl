@@ -1,0 +1,2 @@
+{"sample_id":"debug_001","image":"data/debug/test.png","question":"What is in this image?","answer":"cat"}
+{"sample_id":"debug_002","image":"data/debug/test.png","question":"What color is the cat?","answer":"orange"}

@@ -48,6 +48,19 @@ The output is appended to:
 runs/debug/direct_answer_smoke.jsonl
 ```
 
+## Stage 2: Direct Answer debug batch
+
+After the single-image smoke test works, run the debug JSONL batch:
+
+```bash
+python scripts/run_direct_answer.py \
+  --model /root/autodl-tmp/models/Qwen2.5-VL-7B-Instruct \
+  --input data/debug/smoke_samples.jsonl \
+  --out runs/debug/direct_answer.jsonl
+```
+
+The debug input has two samples and reuses `data/debug/test.png`.
+
 ## Local tests
 
 ```bash

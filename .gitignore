@@ -13,6 +13,7 @@ logs/*
 !data/.gitkeep
 !data/debug/
 !data/debug/test.png
+!data/debug/smoke_samples.jsonl
 !models/.gitkeep
 !runs/.gitkeep
 !logs/.gitkeep
